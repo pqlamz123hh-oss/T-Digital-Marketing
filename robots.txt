@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# رابط خريطة الموقع (Sitemap) يوضع هنا بعد رفع الموقع
+Sitemap: https://www.tdigital-ye.com/sitemap.xml
